@@ -1,2 +1,5 @@
 a.out
 *.swp
+
+.DS_Store
+thumbs.db
